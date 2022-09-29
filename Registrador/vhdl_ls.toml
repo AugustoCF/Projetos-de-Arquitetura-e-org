@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'reg16bits.vhd',
+	'reg16bits_tb.vhd'
+]
+[libraries.work]
+files = [
+	'reg16bits.vhd',
+	'reg16bits_tb.vhd'
+]
+# auto-generated-end

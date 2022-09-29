@@ -1,0 +1,7 @@
+v 4
+file / "C:\Users\Augusto Freitas\Documents\VHDPlus\Projects\Registrador\Registrador\reg16bits_tb.vhd" "f0f613efd0bb93b02fed7838cdee22cdeed5fe2d" "20220929142959.878":
+  entity reg16bits_tb at 1( 0) + 0 on 17;
+  architecture a_reg16bits_tb of reg16bits_tb at 8( 126) + 0 on 18;
+file / "C:\Users\Augusto Freitas\Documents\VHDPlus\Projects\Registrador\Registrador\reg16bits.vhd" "b3dc2741d8f225346e901ac3b8d82c02a1204b1e" "20220929142959.845":
+  entity reg16bits at 1( 0) + 0 on 15;
+  architecture a_reg16bits of reg16bits at 17( 358) + 0 on 16;

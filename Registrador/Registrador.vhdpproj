@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="reg16bits.vhd" />
+    <File Include="reg16bits_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>reg16bits_tb.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

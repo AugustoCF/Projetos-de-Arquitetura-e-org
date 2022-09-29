@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ProjectRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>Lab_paridade</Header>
+  <Items xsi:type="ProjectFolder">
+    <Header>Generated</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>paridade.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>paridade_tb.vhd</Header>
+  </Items>
+  <CruviHSExtensions>
+    <string xsi:nil="true" />
+  </CruviHSExtensions>
+  <CruviLSExtensions>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </CruviLSExtensions>
+  <IOVoltage>0</IOVoltage>
+  <HardwareStartPathRelative>paridade_tb.vhd</HardwareStartPathRelative>
+  <UseShield>false</UseShield>
+</ProjectRoot>
